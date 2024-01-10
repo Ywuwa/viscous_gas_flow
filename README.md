@@ -3,8 +3,8 @@ To build the code you need to create makefile by yourself or run it in an IDE
 DESCRIPTION FILE:
 
 hcond_vgas_2.dat 
-\\
-\\
+\n
+\n
 PROGRAM FILES:
 
 otl_glad.cpp - main file
