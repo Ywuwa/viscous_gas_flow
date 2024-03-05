@@ -11,7 +11,6 @@ To build the code you need to create makefile by yourself or run it in an IDE
 **setka.cpp** - init not rectangular domain <br>
 **hcond_vgas_2.cpp** - compute functions <br>
 
-
 **tex_init.cpp** <br>
 **tex_tab.cpp** <br>
 **tex_end.cpp** - creates tex table with the results <br>
