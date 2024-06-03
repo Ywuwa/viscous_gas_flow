@@ -19,4 +19,4 @@ When program is finished there are many .txt files appeared in the directory, yo
 
 ## ADDITIONAL:
 
-cartoon_warmmap_not_rectangular_area.py - visualize gas dynamic (the print into files is setting up inside hcond_vgas_2.cpp in print section)
+**cartoon_warmmap_not_rectangular_area.py** - visualize gas dynamic (the print into files is setting up inside hcond_vgas_2.cpp in print section)
